@@ -7,7 +7,7 @@
 
 # What to restore.
 #read -p "Enter the backup files name with path to restore: " restore_files 
-restore_files="/home/anwar/localhost-*"
+restore_files="/home/anwar/backup_program/localhost-*"
 
 # Where to restore to.
 #read -p "Enter the path where to restore: " dest
